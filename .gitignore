@@ -1,0 +1,13 @@
+build/
+cmake-build-*/
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+*.log
+*.tmp
+*.ini
+*.user
+.vscode/
+.idea/
